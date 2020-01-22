@@ -882,3 +882,33 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.01.22-21.56.04:311][  0]LogAssetRegistry: Asset discovery search completed in 8.0672 seconds
 [2020.01.22-21.56.04:315][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000009 seconds (updated 0 objects)
 [2020.01.22-21.56.04:316][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.01.22-21.57.51:482][246]LogSlate: Took 0.000289 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.01.22-21.57.58:602][ 68]LogMetaData: Removing '/Game/Character/2DSideScrollerCharacter.2DSideScrollerCharacter_C' ref from Metadata '/Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.PackageMetaData'
+[2020.01.22-21.57.58:602][ 68]LogMetaData: Removing '/Game/Character/2DSideScrollerCharacter.SKEL_2DSideScrollerCharacter_C:InpAxisEvt_MoveRight_K2Node_InputAxisEvent_5' ref from Metadata '/Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.PackageMetaData'
+[2020.01.22-21.57.58:602][ 68]LogMetaData: Removing '/Game/Character/2DSideScrollerCharacter.SKEL_2DSideScrollerCharacter_C:UpdateAnimation' ref from Metadata '/Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.PackageMetaData'
+[2020.01.22-21.57.58:602][ 68]LogMetaData: Removing '/Game/Character/2DSideScrollerCharacter.SKEL_2DSideScrollerCharacter_C:ReceiveBeginPlay' ref from Metadata '/Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.PackageMetaData'
+[2020.01.22-21.57.58:602][ 68]LogMetaData: Removing '/Game/Character/2DSideScrollerCharacter.SKEL_2DSideScrollerCharacter_C:ReceiveTick' ref from Metadata '/Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.PackageMetaData'
+[2020.01.22-21.57.58:602][ 68]LogMetaData: Removing '/Game/Character/2DSideScrollerCharacter.SKEL_2DSideScrollerCharacter_C:bisMovingRight' ref from Metadata '/Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.PackageMetaData'
+[2020.01.22-21.57.58:602][ 68]LogMetaData: Removing '/Game/Character/2DSideScrollerCharacter.SKEL_2DSideScrollerCharacter_C:CameraBoom' ref from Metadata '/Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.PackageMetaData'
+[2020.01.22-21.57.58:602][ 68]LogMetaData: Removing '/Game/Character/2DSideScrollerCharacter.SKEL_2DSideScrollerCharacter_C:SideViewCameraComponent' ref from Metadata '/Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.PackageMetaData'
+[2020.01.22-21.57.58:602][ 68]LogMetaData: Removing '/Game/Character/2DSideScrollerCharacter.SKEL_2DSideScrollerCharacter_C:UserConstructionScript' ref from Metadata '/Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.PackageMetaData'
+[2020.01.22-21.57.58:602][ 68]LogMetaData: Removing '/Game/Character/2DSideScrollerCharacter.SKEL_2DSideScrollerCharacter_C' ref from Metadata '/Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.PackageMetaData'
+[2020.01.22-21.57.58:602][ 68]LogMetaData: Removing '/Game/Character/2DSideScrollerCharacter.2DSideScrollerCharacter_C:bisMovingRight' ref from Metadata '/Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.PackageMetaData'
+[2020.01.22-21.57.58:602][ 68]LogMetaData: Removing '/Game/Character/2DSideScrollerCharacter.2DSideScrollerCharacter_C:CameraBoom' ref from Metadata '/Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.PackageMetaData'
+[2020.01.22-21.57.58:602][ 68]LogMetaData: Removing '/Game/Character/2DSideScrollerCharacter.2DSideScrollerCharacter_C:SideViewCameraComponent' ref from Metadata '/Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.PackageMetaData'
+[2020.01.22-21.57.58:602][ 68]LogMetaData: Removing '/Game/Character/2DSideScrollerCharacter.2DSideScrollerCharacter_C:ReceiveTick' ref from Metadata '/Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.PackageMetaData'
+[2020.01.22-21.57.58:602][ 68]LogMetaData: Removing '/Game/Character/2DSideScrollerCharacter.2DSideScrollerCharacter_C:ReceiveBeginPlay' ref from Metadata '/Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.PackageMetaData'
+[2020.01.22-21.57.58:649][ 68]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/2DSideScrollerCharacter" FILE="C:/Users/Michael/Documents/GitHub/UnrealTest/Test/Content/Character/2DSideScrollerCharacter.uasset" SILENT=true
+[2020.01.22-21.57.58:691][ 68]LogSavePackage: Moving 'C:/Users/Michael/Documents/GitHub/UnrealTest/Test/Saved/2DSideScrollerCharacter9A3E0F8948919A2092BF9191D41872E7.tmp' to 'C:/Users/Michael/Documents/GitHub/UnrealTest/Test/Content/Character/2DSideScrollerCharacter.uasset'
+[2020.01.22-21.57.58:709][ 68]LogSavePackage: Moving 'C:/Users/Michael/Documents/GitHub/UnrealTest/Test/Saved/2DSideScrollerCharacter9F3E07684155FEF320D6038FBDF701CD.tmp' to 'C:/Users/Michael/Documents/GitHub/UnrealTest/Test/Content/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.uasset'
+[2020.01.22-21.57.58:756][ 68]AssetCheck: New page: Asset Save: multiple assets
+[2020.01.22-21.57.58:756][ 68]LogContentValidation: Display: Validating Blueprint /Game/Character/2DSideScrollerCharacter.2DSideScrollerCharacter
+[2020.01.22-21.57.58:756][ 68]LogContentValidation: Display: Validating ObjectRedirector /Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.2DSideScrollerCharacter
+[2020.01.22-21.57.58:756][ 68]LogContentValidation: Display: Validating ObjectRedirector /Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.Default__2DSideScrollerCharacter_C
+[2020.01.22-21.57.58:756][ 68]LogContentValidation: Display: Validating ObjectRedirector /Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.2DSideScrollerCharacter_C
+[2020.01.22-21.58.02:564][502]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2020.01.22-21.58.02:731][502]LogSavePackage: Moving 'C:/Users/Michael/Documents/GitHub/UnrealTest/Test/Saved/2DSideScrollerExampleMap3F984E11410BBC5D76D43F93876AB820.tmp' to 'C:/Users/Michael/Documents/GitHub/UnrealTest/Test/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap'
+[2020.01.22-21.58.02:762][502]LogSavePackage: Moving 'C:/Users/Michael/Documents/GitHub/UnrealTest/Test/Saved/2DSideScrollerExampleMap_BuiltDa4979D911424F155DB21991B9AA4CAE31.tmp' to 'C:/Users/Michael/Documents/GitHub/UnrealTest/Test/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_BuiltData.uasset'
+[2020.01.22-21.58.02:787][502]AssetCheck: New page: Asset Save: multiple assets
+[2020.01.22-21.58.02:788][502]LogContentValidation: Display: Validating World /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap
+[2020.01.22-21.58.02:788][502]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_BuiltData.2DSideScrollerExampleMap_BuiltData
