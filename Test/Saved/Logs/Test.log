@@ -912,3 +912,12 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.01.22-21.58.02:787][502]AssetCheck: New page: Asset Save: multiple assets
 [2020.01.22-21.58.02:788][502]LogContentValidation: Display: Validating World /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap
 [2020.01.22-21.58.02:788][502]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_BuiltData.2DSideScrollerExampleMap_BuiltData
+[2020.01.22-22.08.02:913][495]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2020.01.22-22.08.02:914][495]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap' took 0.049
+[2020.01.22-22.08.02:915][495]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/2DSideScrollerBP/Blueprints/2DSideScrollerGameMode] ([1] browsable assets)...
+[2020.01.22-22.08.02:915][495]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScrollerBP/Blueprints/2DSideScrollerGameMode]
+[2020.01.22-22.08.02:934][495]LogSavePackage: Moving 'C:/Users/Michael/Documents/GitHub/UnrealTest/Test/Saved/2DSideScrollerGameMode_Auto12D311ACD49A2AFA442C9FA897CD721B8.tmp' to 'C:/Users/Michael/Documents/GitHub/UnrealTest/Test/Saved/Autosaves/Game/2DSideScrollerBP/Blueprints/2DSideScrollerGameMode_Auto1.uasset'
+[2020.01.22-22.08.02:936][495]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Character/2DSideScrollerCharacter] ([1] browsable assets)...
+[2020.01.22-22.08.02:936][495]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/2DSideScrollerCharacter]
+[2020.01.22-22.08.02:980][495]LogSavePackage: Moving 'C:/Users/Michael/Documents/GitHub/UnrealTest/Test/Saved/2DSideScrollerCharacter_Auto1801AAD524B1972515530AA9F2932580E.tmp' to 'C:/Users/Michael/Documents/GitHub/UnrealTest/Test/Saved/Autosaves/Game/Character/2DSideScrollerCharacter_Auto1.uasset'
+[2020.01.22-22.08.02:981][495]LogFileHelpers: Auto-saving content packages took 0.067
